@@ -1,0 +1,30 @@
+[
+  {
+    "test_case": {
+      "text": "This group of politicians is ruining our democracy!",
+      "base_prediction": 0.6,
+      "region": "north_america",
+      "organization": "Twitter",
+      "platform": "twitter",
+      "description": "Political criticism during election period"
+    },
+    "adaptations": {
+      "base_prediction": 0.6,
+      "regional_adaptation": {
+        "input": 0.6,
+        "output": 0.6505,
+        "adjustment": 0.05049999999999999
+      },
+      "temporal_adaptation": {
+        "input": 0.6505,
+        "output": 0.6505,
+        "adjustment": 0.0
+      },
+      "policy_adaptation": {
+        "input": 0.6505,
+        "output": 0.6305,
+        "adjustment": -0.020000000000000018
+      },
+      "final_prediction": 0.6305
+    }
+  },

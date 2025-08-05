@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-08-04T05:49:55.978542",
+  "summary": {
+    "performance": {
+      "mean_score": 0.5792473911116905,
+      "std_score": 0.04811259951858389,
+      "min_score": 0.48347768414481895,
+      "max_score": 0.608
+    },
+    "fairness": {
+      "mean_bias_score": 0.013326875611720706,
+      "max_bias_score": 0.028230676328502402,
+      "high_bias_count": 0,
+      "total_groups": 3
+    },
+    "explainability": {
+      "mean_quality": 0.5,
+      "mean_consistency": 0.17738541132834537,
+      "mean_human_agreement": 0.5,
+      "mean_efficiency": 0.9020798282578494
+    },
+    "contextual_adaptation": {
+      "mean_score": 0.2160369928722691,
+      "std_score": 0.3771525936984005,
+      "min_score": 0.013972055888223478,
+      "max_score": 0.9702129084731219
+    },
+    "collaboration": {
+      "mean_score": 0.30254547687941546,
+      "std_score": 0.21214299948379553,

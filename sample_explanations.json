@@ -1,0 +1,20 @@
+{
+  "attention": {
+    "type": "attention_heatmap",
+    "data": {
+      "tokens": [
+        "This",
+        "group",
+        "of",
+        "people",
+        "is",
+        "ruining",
+        "our",
+        "country!"
+      ],
+      "attention_scores": [
+        0.14345572159341763,
+        0.2022832274001652,
+        0.1868604061782223,
+        0.06149349224387537,
+        0.014991223194556967,
